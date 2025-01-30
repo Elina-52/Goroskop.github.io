@@ -1,0 +1,2 @@
+# Goroskop.github.io
+Goroskop
